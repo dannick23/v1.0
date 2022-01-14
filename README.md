@@ -54,7 +54,9 @@ read of file kursiokai5.txt start
 read of filekursiokai5.txtend, elapsed time: 490.365s
 Sort of students by avg grades start
 sort of students by avg grades end, elapsed time: 425.044s
+
 `--------------------------------------------------------------------------------------------------------------------`
+
 deque test output:
 read of file kursiokai1.txt start
 read of filekursiokai1.txtend, elapsed time: 0.0529919s
