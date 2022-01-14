@@ -48,7 +48,7 @@ read of file kursiokai5.txt start
 read of filekursiokai5.txtend, elapsed time: 490.365s
 Sort of students by avg grades start
 sort of students by avg grades end, elapsed time: 425.044s
---------------------------------------------------------------------------------------------------------------------
+`--------------------------------------------------------------------------------------------------------------------`
 deque test output:
 read of file kursiokai1.txt start
 read of filekursiokai1.txtend, elapsed time: 0.0529919s
@@ -75,7 +75,7 @@ generation of file kursiokai4.txt started
 generation of file kursiokai4.txt ended, time elapsed: 37.6412s
 read of file kursiokai4.txt start
 read of file kursiokai4.txt end, elapsed time: 63.3513s
---------------------------------------------------------------------------------------------------------------------
+`--------------------------------------------------------------------------------------------------------------------`
 Programa naudoja 451MB patalpintiem duomenim vektoriuje is failo.
 Talpinant i 2 naujus vektorius(vargsiuku/kieteku):
 Sort of students by avg grades start
@@ -85,7 +85,7 @@ write file vargsiukai.txt ended, elapsed time: 16.0716s
 write file kietekai.txt started
 write file kietekai.txt ended, elapsed time: 22.5876s
 programa dabar naudoja 999MB operatyvios atminties.
---------------------------------------------------------------------------------------------------------------------
+`--------------------------------------------------------------------------------------------------------------------`
 Talpinant i 2 naujus list(vargsiuku/kieteku):
 Programa naudoja 1014MB patalpintiem duomenim liste is failo.
 Sort of students by avg grades start
@@ -95,7 +95,7 @@ write file vargsiukai.txt ended, elapsed time: 15.7713s
 write file kietekai.txt started
 write file kietekai.txt ended, elapsed time: 22.4769s
 programa dabar naudoja 2GB operatyvios atminties.
---------------------------------------------------------------------------------------------------------------------
+`--------------------------------------------------------------------------------------------------------------------`
 Programa naudoja 656MB patalpintiem duomenim deque is failo.
 Sort of students by avg grades start
 sort of students by avg grades end, elapsed time: 10.5376s
